@@ -5,8 +5,9 @@
 
 <template>
   <div
-       class="bg-white p-4 rounded-lg flex flex-col items-center justify-center text-center cursor-pointer transition-all border-2 relative"
-       :class="[props.active ? 'border-[#594685] bg-[#F7F6F3]' : 'border-white hover:border-[#DCDAD2]']"
+      style="background: #FDFBD4"
+       class="bg-white p-4 rounded-lg flex flex-col items-center justify-center text-center cursor-pointer bg-[#FDFBD4] transition-all border-2 relative"
+       :class="[props.active ? 'border-[#594685]' : 'border-white hover:border-[#DCDAD2]']"
        @click="props.click"
   >
     <span v-if="props.active" class="absolute top-0 right-0">

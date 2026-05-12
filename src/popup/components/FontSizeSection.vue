@@ -8,7 +8,7 @@
 </script>
 
 <template>
-  <section class="bg-white p-6 rounded-md shadow-sm">
+  <section class="bg-white p-6 rounded-md shadow-sm" style="background: #FDFBD4">
     <div class="flex items-center gap-4 mb-5">
           <span class="text-[#594685] font-black select-none">
             <span class="text-3xl">T</span>

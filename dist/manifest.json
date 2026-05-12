@@ -19,13 +19,13 @@
   "content_scripts": [
     {
       "js": [
-        "assets/content.ts-loader-DCfOpp5C.js"
+        "assets/content.ts-loader-hyvhGwHE.js"
       ],
       "matches": [
         "<all_urls>"
       ],
       "css": [
-        "assets/accessibilityStore-BnOtpRDE.css"
+        "assets/accessibilityStore-DOBtpcTK.css"
       ]
     }
   ],
@@ -35,12 +35,12 @@
         "<all_urls>"
       ],
       "resources": [
-        "assets/accessibilityStore-DxGEAw7j.js",
-        "assets/accessibilityStore-DxGEAw7j.js.map",
+        "assets/accessibilityStore-C3Z9SJeZ.js",
+        "assets/accessibilityStore-C3Z9SJeZ.js.map",
         "assets/accessibilityHandler-DYIHJR2X.js",
         "assets/accessibilityHandler-DYIHJR2X.js.map",
-        "assets/content.ts-Je8_Yh1L.js",
-        "assets/content.ts-Je8_Yh1L.js.map"
+        "assets/content.ts-DktODrNi.js",
+        "assets/content.ts-DktODrNi.js.map"
       ],
       "use_dynamic_url": false
     }
